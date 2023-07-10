@@ -1,0 +1,6 @@
+127.0.0.1 - - [05/Jul/2023:01:20:43 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [05/Jul/2023:01:20:44 +0530] "GET /SpringMVCPagination/ HTTP/1.1" 200 70
+0:0:0:0:0:0:0:1 - - [05/Jul/2023:01:20:46 +0530] "GET /SpringMVCPagination/viewpro HTTP/1.1" 500 8557
+0:0:0:0:0:0:0:1 - - [05/Jul/2023:01:20:49 +0530] "GET /SpringMVCPagination/proform HTTP/1.1" 500 8557
+0:0:0:0:0:0:0:1 - - [05/Jul/2023:01:20:55 +0530] "GET /SpringMVCCRUDSimple/viewpro HTTP/1.1" 404 782
+0:0:0:0:0:0:0:1 - - [05/Jul/2023:01:20:58 +0530] "GET /SpringMVCCRUDSimple/proform HTTP/1.1" 404 782
